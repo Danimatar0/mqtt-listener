@@ -1,0 +1,10 @@
+{
+  message: 'Connected to MQTT',
+  level: 'info',
+  timestamp: '2022-11-20T11:15:25.675Z'
+}
+{
+  message: 'Received message on client-management/init: welcome',
+  level: 'info',
+  timestamp: '2022-11-20T11:15:56.824Z'
+}
